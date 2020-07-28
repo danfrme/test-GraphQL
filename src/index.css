@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Mulish', sans-serif;
+}
+
+header {
+  font-size: 20px;
+  text-align: center;
+  margin-top: 0;
+  background-color: rgb(221, 221, 213);
+  border: 1px solid rgba(151, 143, 143, 0.3);
+  transition: all 0.4s;
+  margin-bottom: 40px;
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
+
+header p:hover {
+  transform: scale(1.01);
+  color: rgba(3, 3, 3, 0.8);
+  transition: all 0.4s;
+}
+

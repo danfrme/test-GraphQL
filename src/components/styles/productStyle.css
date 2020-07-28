@@ -1,0 +1,33 @@
+.product-wrapper {
+    width: 350px;
+    height: 350px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: all 0.4s;
+}
+
+.product-wrapper:hover {
+    transform: scale(1.01);
+    transition: all 0.4s;
+}
+
+.product-wrapper:active {
+    transform: scale(0.9);
+    transition: all 0.4s;
+}
+
+
+.product-img {
+    width: 100px;
+}
+
+.product-price {
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+.product-stock {
+    margin-top: 0;
+}
