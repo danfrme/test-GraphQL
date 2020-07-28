@@ -1,3 +1,7 @@
+
+The app is deployed at https://testappgraphql.netlify.app/, or you can see the code.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
