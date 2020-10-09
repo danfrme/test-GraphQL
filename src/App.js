@@ -15,7 +15,7 @@ function App() {
     <ApolloProvider client={client}>
     <div className="App">
       <header>
-        <p>My Test</p>
+        <p>web site name</p>
       </header>
   {/* testing commitment */}
 
